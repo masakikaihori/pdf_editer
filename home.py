@@ -16,6 +16,5 @@ st.markdown(
     ### 提供ツール
     - aaa
     - bbb
-	- ccc
     """
 )
