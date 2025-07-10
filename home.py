@@ -14,8 +14,8 @@ st.markdown(
     **👈 左のサイドバーから、使いたいツールを選択してください。**
     
     ### 提供ツール
-    - aaa
-    - bbb
-    - ccc
+    - combinerは結合！！
+    - deviderは分割！！
+    - rotateは回転！！
     """
 )
